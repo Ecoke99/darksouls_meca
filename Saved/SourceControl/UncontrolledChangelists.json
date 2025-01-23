@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/unreal_engine_projects/darksouls_meca/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/unreal_engine_projects/darksouls_meca/Content/Sword_Animations/Animations/AnimGraph.uasset",
+				"D:/unreal_engine_projects/darksouls_meca/Content/Sword_Animations/Animations/BS_idleRun.uasset",
+				"D:/unreal_engine_projects/darksouls_meca/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/unreal_engine_projects/darksouls_meca/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"D:/unreal_engine_projects/darksouls_meca/Content/ThirdPerson/Blueprints/StatusComponent.uasset",
+				"D:/unreal_engine_projects/darksouls_meca/Content/Widgets/UI.uasset",
+				"D:/unreal_engine_projects/darksouls_meca/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/unreal_engine_projects/darksouls_meca/Content/Widgets/UI_.uasset",
+				"D:/unreal_engine_projects/darksouls_meca/Content/Widgets/UI_PlayerCombat.uasset",
+				"D:/unreal_engine_projects/darksouls_meca/Content/ThirdPerson/Input/Actions/IA_Run_Roll_Avoid.uasset",
+				"D:/unreal_engine_projects/darksouls_meca/Content/ThirdPerson/Blueprints/E_PlayerState.uasset",
+				"D:/unreal_engine_projects/darksouls_meca/Content/Sword_Animations/Animations/Sequence1/07_Roll/01_Roll/AM_PlayerRoll.uasset",
+				"D:/unreal_engine_projects/darksouls_meca/Content/Sword_Animations/Animations/AniminGrah.uasset",
+				"D:/unreal_engine_projects/darksouls_meca/Content/Sword_Animations/Animations/AniminGraph.uasset",
+				"D:/unreal_engine_projects/darksouls_meca/Content/Sword_Animations/Animations/Blendspace.uasset",
+				"D:/unreal_engine_projects/darksouls_meca/Content/Sword_Animations/Animations/blendSpace/1H_Player.uasset",
+				"D:/unreal_engine_projects/darksouls_meca/Content/Sword_Animations/Animations/blendSpace/BS_1H_Player.uasset"
+			]
+		}
+	]
+}
